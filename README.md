@@ -1,4 +1,5 @@
-![GitHub Logo](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/python_library.jfif)
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/python_library.jfif" alt="vialliw toolbox" width="280" height="280">
+
 
 
 <details>

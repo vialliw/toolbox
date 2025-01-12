@@ -2,6 +2,31 @@
 
 *The path to a meaningful life is paved with repeated acts of kindness.*
 
+
+<details>
+<summary><b>[duplicate-file-checker.py] Duplicate file searcher script</b></summary>
+  
+*This script recursively searches through directories and identifies duplicate files by comparing their SHA256 hashes.*
+
+1. [duplicate-file-checker.py](https://github.com/vialliw/toolbox/blob/main/duplicate-file-checker.py)
+2. This script provides several key features:
+   1. Recursively scans all subdirectories
+   2. Uses SHA256 for reliable file comparison
+   3. Handles large files efficiently by reading in chunks
+   4. Resolves symbolic links to avoid duplicates
+   5. Provides human-readable file sizes
+   6. Handles errors gracefully (permission issues, missing files)
+   7. Tracks processed files to avoid redundant calculations
+   8. Groups duplicate files by their hash values
+   9. Shows summary statistics of duplicate files found
+3. To use the script:
+   1. Save it to a file (e.g., find_duplicates.py)
+   2. Run it: python find_duplicates.py
+   3. Enter the directory path when prompted
+
+</details>
+
+
 <details>
 <summary><b>[vw_toolbox.py] Miscellaneous handy python functions</b></summary>
   
